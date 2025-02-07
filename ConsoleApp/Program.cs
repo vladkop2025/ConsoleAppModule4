@@ -9,7 +9,7 @@ namespace ConsoleApp
     internal class Program
     {
         static void Main(string[] args)
-        { // Модуль 4. Основы C# и CLR. Основные конструкции C#
+        { //Модуль 4. Основы C# и CLR. Основные конструкции C#
         }
     }
 }

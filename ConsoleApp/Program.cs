@@ -10,6 +10,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         { //Модуль 4. Основы C# и CLR. Основные конструкции C#
+          /*   4.3.Массивы
+           
+            
+          */   
         }
     }
 }
